@@ -192,5 +192,7 @@ class ExpressaoMatematica {
 		scan.close();
 		
 		}
+	   System.out.print("Aqui é Galo");
+	   System.out.print("Aqui é nois");
 	}
 
